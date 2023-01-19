@@ -1,0 +1,71 @@
+header{
+    background-image: url(./Template/man-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#mmbar{
+    background-color: #343b42;
+}
+#register{
+    background-color: #0682ff;
+}
+#dance-tour{
+    background-color: #15518d;
+
+
+}
+.card-for{
+    background-color: #303030;
+    
+}
+.card-for img{
+    height: 250px;
+}
+#pricing{
+    background-color: #303030;
+}
+.card-2{
+    background-color: #15518d;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+.card- img{
+    height: 250px;
+}
+#statistics{
+    background-color: #303030;
+}
+#contact{
+    background-color: #15518d;
+
+}
+#about{
+    background-color: #15518d;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.qaium{
+    color: rgb(173, 228, 22);
+ 
+}
+footer{
+    background-color: #303030;
+
+    
+
+}
+footer ul{
+
+}
+footer ul li{
+    text-decoration: none;
+    display: inline;
+    padding: 10px;
+}
+footer a{
+    text-transform: uppercase;
+    text-decoration: none;
+   color: aliceblue;
+}
